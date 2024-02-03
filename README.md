@@ -6,8 +6,4 @@ Ho acquisito competenze avanzate nel mondo dello sviluppo web. La mia passione p
 
 ![image](https://github.com/giovgio90/giovgio90/assets/135556508/d0947426-9f76-46f6-b932-499ec29aac84)
 
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)  
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![React](https://img.icons8.com/color/48/000000/react.png) ![Redux](https://img.icons8.com/color/48/000000/redux.png)
